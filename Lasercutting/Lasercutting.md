@@ -34,7 +34,7 @@ In den herunterladbaren Dateien (LINK) sind Schnittlinien schwarz und Gravuren r
 
 Für das schmale Brett mit 20 cm Breite (800 x 200 x 18 mm) wird folgende Anordnung empfohlen:
 
-(Bild)
+(BILD SCREENSHOT LIGHTBURN)
 
 Die SVG-Datei kann hier (LINK) heruntergeladen werden.
 
@@ -42,7 +42,7 @@ Die SVG-Datei kann hier (LINK) heruntergeladen werden.
 
 Für das schmale Brett mit 20 cm Breite (800 x 250 x 18 mm) wird folgende Anordnung empfohlen:
 
-(Bild)
+(BILD SCREENSHOT LIGHTBURN)
 
 Die SVG-Datei kann hier (LINK) heruntergeladen werden.
 
