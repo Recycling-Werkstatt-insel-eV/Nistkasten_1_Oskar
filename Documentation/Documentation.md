@@ -55,6 +55,11 @@ Zum Speichern der Datei: Commit changes (oben rechts)
 
 (hier Bauanleitung beschreiben)
 
+- Überprüfe, ob alle Teile vorhanden sind (vergleiche Bild unten)
+- Die linke Wand und rechte Wand sehen etwas unterschiedlich aus - Stelle sicher, dass du sie richtig anordnest
+
+![](anordnung1.png)
+
 - Stecke alle Teile zusammen und prüfe, ob sie gut zusammenpassen (folge der bebilderten Anleitung unten)
 - Falls einzelne Teile nicht passen sollten, bearbeite die entsprechenden Ecken und Kanten nach (z.B. mit einer Feile)
 - Wenn alles gut zusammenpasst, zerlege die Teile wieder
