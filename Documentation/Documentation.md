@@ -28,9 +28,28 @@ Zum Speichern der Datei: Commit changes (oben rechts)
 
 (Hier benötigte Materialien und Werkzeuge auflisten)
 
+### Material/Bauteile
+
 - 7x Holzteile (lasergeschnitten oder CNC-gefräst), davon eine Lochplatte mit Einflugloch
 - 2x weitere Lochplatten mit unterschiedlichen Durchmessern
-- 1x 
+- 1x Frontplatte aus Recycling-Kunststoff
+- 2x Halter aus Recycling-Kunststoff (oder drei Stück, falls die Lochplatte locker sitzt und gesichert werden muss)
+- 1x Dach aus Recyclingkunststoff
+- (ANZAHL) Schrauben vom Typ (SCHRAUBENTYP 1)
+- (ANZAHL) Schrauben vom Typ (SCHRAUBENTYP 2)
+- (ANZAHL) Schrauben vom Typ (SCHRAUBENTYP 3)
+- 2x Schnur (jeweils ca. 15 cm lang) (Optional; Zur Sicherung der Frontklappe/Tür)
+
+### Werkzeuge
+
+- Akkuschrauber
+- Passende Bits für Kreuzschlitz- und Torx-Schrauben
+- Bohrer (DURCHMESSER)
+- Schraubendreher (Kreuzschlitz und Torx) (Optional, falls kein Akkuschrauber zur Verfügung steht oder falls Schrauben von Hand angezogen werden sollen)
+- 1-2 Schraubzwingen (optional, vereinfacht die Montage)
+- Feile (falls Teile nicht passen und nachbearbeitet werden müssen)
+- Raspel (zum Anrauen der Innenfläche der Frontplatte/Tür)
+- Bohrmaschine (BOHRUNGEN evtl. in separates Dokument "Herstellung der Teile)
 
 ## Bauanleitung
 
@@ -59,6 +78,5 @@ Zum Speichern der Datei: Commit changes (oben rechts)
 - (Beschreibung hinzufügen)
 
 ![](10.png) ![](11.png)
-
 
 - (Beschreibung hinzufügen)
