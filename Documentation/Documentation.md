@@ -28,6 +28,37 @@ Zum Speichern der Datei: Commit changes (oben rechts)
 
 (Hier benötigte Materialien und Werkzeuge auflisten)
 
+- 7x Holzteile (lasergeschnitten oder CNC-gefräst), davon eine Lochplatte mit Einflugloch
+- 2x weitere Lochplatten mit unterschiedlichen Durchmessern
+- 1x 
+
 ## Bauanleitung
 
 (hier Bauanleitung beschreiben)
+
+- Stecke alle Teile zusammen und prüfe, ob sie gut zusammenpassen (folge der bebilderten Anleitung unten)
+- Falls einzelne Teile nicht passen sollten, bearbeite die entsprechenden Ecken und Kanten nach (z.B. mit einer Feile)
+- Wenn alles gut zusammenpasst, zerlege die Teile wieder
+
+- Beginne nun mit den Teilen Boden, linke Wand, Rückwand und rechte Wand und stecke sie in dieser Reihenfolge zusammen
+- Du kannst 1-2 Schraubzwingen benutzen, um die Teile vorläufig zusammenzuhalten
+
+![](01.png) ![](02.png)
+
+![](03.png) ![](04.png)
+
+- Verwende 6 Schrauben (SCHRAUBENTYP), um die Teile an den vorgesehenen Bohrungen miteinander zu verbinden (nutze einen Akkuschrauber oder einen Schraubendreher)
+- An den beiden Seitenteilen (links/rechts) sind ganz unten jeweils zwei Bohrungen; An der Rückwand sind auf mitterer Höhe zwei Bohrungen
+
+![](05.png) ![](06.png)
+
+- (Beschreibung hinzufügen)
+
+![](07.png) ![](08.png) ![](09.png)
+
+- (Beschreibung hinzufügen)
+
+![](10.png) ![](11.png)
+
+
+- (Beschreibung hinzufügen)
