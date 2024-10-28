@@ -38,9 +38,9 @@ Für das schmale Brett mit 20 cm Breite (800 x 200 x 18 mm) wird folgende Anordn
 
 ![](lasercut1.png)
 
-Schwarz = Schnittlinien
-Rot = Gravur
-Grün = Brettrand (nicht lasern)
+- Schwarz = Schnittlinien
+- Rot = Gravur
+- Grün = Brettrand (nicht lasern)
 
 Die SVG-Datei kann hier (LINK) heruntergeladen werden.
 
