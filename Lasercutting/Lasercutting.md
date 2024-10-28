@@ -31,6 +31,8 @@ Bei dem o.g. Modell (Omtech Max 1493 / USB1410b (130 Watt)) werden folgende Eins
 Die Anzahl der Schnittdurchläufe ist hier mit zwei (2) angegeben. Dies kann z.B. in Lightburn über den Parameter (PARAMETER NAME HIER EINFÜGEN) gesteuert werden. Es wird allerdings empfohlen, den Parameter auf 1 zu setzen und dafür den Laserjob zwei mal hintereinander durchlaufen zu lassen. Andernfalls werden alle Linien direkt hintereinander zwei mal geschnitten, was die Gefahr von Flammbildung erhöht.
  
 In den herunterladbaren Dateien (LINK) sind Schnittlinien schwarz und Gravuren rot angelegt. In der Software Lightburn können die Parameter entsprechend angepasst werden. Der grüne Rand stellt das Brett dar und sollte nicht gelasert werden.
+
+Die roten (gravierten) Zahlen stehen für den Lochdurchmesser in Millimeter. Für einen Nistkästen können alle drei Lochplatten angefertigt werden, damit sie später ausgetauscht werden können, oder es wird nur die Lochplatte gefertigt, die benötigt wird. Mehr zu dem Thema im Kapitel "Aufhängung und Nutzung".
  
 ## Schmales Brett (20 cm Breite)
 
