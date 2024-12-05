@@ -77,7 +77,7 @@ Zusammenbau:
 
 ![](03.png) ![](04.png)
 
-[](04_b.png)
+![](04_b.png)
 
 - Setze das Teil "Oberer Boden" in die Lücke ein (siehe Bild unten) und stelle sicher, dass es hineinpasst. Falls nicht, feile etwas nach.
 
