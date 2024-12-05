@@ -105,6 +105,28 @@ x
 x
 x
 
+- Platziere den Griff mittig auf der Frontplatte/Tür
+  - Achte darauf, dass du den Griff auf der glatten Seite platzierst und nicht auf der angerauten Seite. Die angeraute seite soll auf der Innenseite des Nistkastens liegen
+- Befestige den Griff mit zwei Schrauben 4 x 40. Wenn nötig, versenke die Schrauben etwas tiefer, sodass sie genug Halt im Holz haben
+
+![](tuer_1.png) ![](tuer_2.png) 
+
+ - Setze die Tür in den Nistkasten ein
+- Bohre an den markierten Stellen (Bild unten) zwei Bohrungen
+  - Verwende einen Akkuschrauber mit 3 mm Bohrer
+  - Die Bohrungen einfach mittig auf der Fläche platzieren oder verwende die beiden drehbaren Halter aus Recyclingkunststoff als Schablone zum Anzeichnen
+  - Es reicht, wenn die Löcher ungefähr so tief sind wie die Schraubenlänge (ca. 2,5 cm)
+ 
+
+![](tuer_4.png) ![](tuer_5.png)
+
+- Wichtig: Stelle sicher, dass du die drehbaren Halter so platzierst, dass sie
+  - im geschlossenen Zustand die Tür festhalten
+  - im geöffneten Zustand die Tür nicht blockieren
+
+
+![](tuer_4.png) ![](tuer_5.png)
+
 - (DACH BEFESTIGUNG)
 x
 x
