@@ -1,27 +1,13 @@
-(Vorlagen für weitere Bearbeitung, kann später gelöscht werden):
-
-Liste mit Stichpunkten:
-- Punkt 1
-- Punkt 2
-  - Unterpunkt 2.1 (zwei Leerzeichen vor dem Spiegelstrich "-" hinzufügen)
-  - Unterpunkt 2.2
-- Punkt 3
-
-Normaler Text **fettgedruckt** , _kursiv_ 
-
-Bild:
-
-![](Beispielbild.png)
-
-Die Datei "Beispielbild.png" muss im Ordner "Documentation" liegen (über "Add file" oben rechts in der Ecke > Upload files > Commit Changes (ganz unten).
-Wichtig: wenn "png" im Dateinamen klein geschrieben ist, muss es auch hier klein stehen. Entsprechend bei PNG groß auch hier groß schreiben.
-
-Zum Speichern der Datei: Commit changes (oben rechts)
-
-# Vogelhaus für Workshops (Name ggf. ändern) Bauanleitung
+# Vogelnistkasten für Workshops - Bauanleitung
 
 ## Beschreibung
 (Kurzer Einleitungstext, der das Vogelhaus beschreibt)
+
+## Bauteile anfertigen
+
+Bevor der Nistkasten nach dieser Anleitung zusammengebaut wird, sollten die Teile alle angefertigt werden.
+
+Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../../README.md) und bearbeite die Punkte: "Holzteile anfertigen", "Kunststoffteile anfertigen" und "Kaufteile".
 
 
 ## Material- und Werkzeugliste
@@ -30,21 +16,32 @@ Zum Speichern der Datei: Commit changes (oben rechts)
 
 ### Material/Bauteile
 
+Schrauben:
+- 6 x Holzschrauben vom Typ 4 x 30 
+- 12 x Holzschrauben vom Typ 3,5 x 25
+- 2 x Holzschrauben vom Typ 4 x 40
+
+:bulb: Alle Schrauben möglichst mit Senkkopf (Kreuzschlitz oder Torx). Schraubengrößen können auch leicht abweichen.
+
+Lasergeschnittene bzw. CNC-gefräste Holzteile:
 - 7x Holzteile (lasergeschnitten oder CNC-gefräst), davon eine Lochplatte mit Einflugloch
 - 2x weitere Lochplatten mit unterschiedlichen Durchmessern
+
+Zugesägte Teile aus Recycling-Kunststoff:
+
 - 1x Frontplatte aus Recycling-Kunststoff
 - 2x Halter aus Recycling-Kunststoff (oder drei Stück, falls die Lochplatte locker sitzt und gesichert werden muss)
 - 1x Dach aus Recyclingkunststoff
-- (ANZAHL) Schrauben vom Typ (SCHRAUBENTYP 1)
-- (ANZAHL) Schrauben vom Typ (SCHRAUBENTYP 2)
-- (ANZAHL) Schrauben vom Typ (SCHRAUBENTYP 3)
-- 2x Schnur (jeweils ca. 15 cm lang) (Optional; Zur Sicherung der Frontklappe/Tür)
+- 1x Plastikbrett für die Rückseite (Baumbefestigung) aus Recyclingkunststoff
+
+Sonstiges:
+- 2x Schnur (jeweils ca. 15 cm lang) (Optional, geht auch ohne - zur Sicherung der Frontklappe/Tür)
 
 ### Werkzeuge
 
 - Akkuschrauber
-- Passende Bits für Kreuzschlitz- und Torx-Schrauben
-- Bohrer (DURCHMESSER)
+- Passende Bits für Kreuzschlitz- und Torx-Schrauben (je nach verwendeter Schrauben)
+- Bohrer 
 - Schraubendreher (Kreuzschlitz und Torx) (Optional, falls kein Akkuschrauber zur Verfügung steht oder falls Schrauben von Hand angezogen werden sollen)
 - 1-2 Schraubzwingen (optional, vereinfacht die Montage)
 - Feile (falls Teile nicht passen und nachbearbeitet werden müssen)
