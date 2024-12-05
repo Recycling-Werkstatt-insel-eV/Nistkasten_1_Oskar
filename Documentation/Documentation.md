@@ -7,7 +7,7 @@
 
 Bevor der Nistkasten nach dieser Anleitung zusammengebaut wird, sollten die Teile alle angefertigt werden.
 
-Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../README.md) und bearbeite die Punkte: "Holzteile anfertigen", "Kunststoffteile anfertigen" und "Kaufteile".
+Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../../README.md) und bearbeite die Punkte: "Holzteile anfertigen", "Kunststoffteile anfertigen" und "Kaufteile".
 
 
 ## Material- und Werkzeugliste
