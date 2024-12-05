@@ -132,10 +132,26 @@ Dach:
 
 ![](dach_seite.png)
 
-(RÜCKSEITE BRETT)
-x
-x
+Plastikbrett Rückseite:
 
-(ZUSÄTZLICHE DREHHALTERUNG)
-x
-x
+- Platziere das Plastikbrett mittig auf der Rückseite des Nistkastens
+- Verwende 4x Holzschrauben vom Typ 3,5 x 25 zum Befestigen des Plastikbretts
+
+![](12.png) ![](13.png)
+
+:bulb: Das Brett dient als Baumbefestigung. Die beiden Löcher ganz oben und unten im Plastikbrett bleiben vorerst frei. Bei der Befestigung am Baum werden Alunägel durch die Löcher geschlagen. 
+
+Schnüre (optional):
+
+- Die Frontplatte/Tür kann zusätzlich mit zwei ca. 15 cm langen Schnüren gesichert werden
+- Vorteil: Sobald der Nistkasten hoch im Baum hängt und die Tür geöffnet wird (zur Reinigung), kann sie nicht hinunterfallen bzw. muss man die Tür nicht die ganze Zeit in der Hand halten, sondern kann sie an den Schnüren hängen lassen
+- Die Schnüre einfach durch die Löcher in der Tür und im Boden führen (gelbe Linien im Bild unten) und festknoten
+
+![](baender.png)
+
+Zusätzliche drehbare Halterung (nur, falls notwendig):
+
+- Falls eine der Lochplatten nicht gut hält und leicht herausrutscht, kann sie durch einen zusätzlichen drehbaren Halter gesichert werden (siehe Bild)
+
+
+![](zusatz_halter.png)
