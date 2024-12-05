@@ -100,8 +100,21 @@ Zusammenbau:
 
 ![](07.png) ![](08.png) ![](09.png)
 
-- (Beschreibung hinzufügen)
+(TÜR + GRIFF BEFESTIGUNG)
+x
+x
+x
+
+- (DACH BEFESTIGUNG)
+x
+x
 
 ![](10.png) ![](11.png)
 
-- (Beschreibung hinzufügen)
+(RÜCKSEITE BRETT)
+x
+x
+
+(ZUSÄTZLICHE DREHHALTERUNG)
+x
+x
