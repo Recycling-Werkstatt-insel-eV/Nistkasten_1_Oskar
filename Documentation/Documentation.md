@@ -124,8 +124,7 @@ x
   - im geschlossenen Zustand die Tür festhalten
   - im geöffneten Zustand die Tür nicht blockieren
 
-
-![](tuer_4.png) ![](tuer_5.png)
+![](tuer_6.png) ![](tuer_7.png)
 
 - (DACH BEFESTIGUNG)
 x
