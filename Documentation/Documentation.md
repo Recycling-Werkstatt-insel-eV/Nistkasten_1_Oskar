@@ -100,10 +100,7 @@ Zusammenbau:
 
 ![](07.png) ![](08.png) ![](09.png)
 
-(TÜR + GRIFF BEFESTIGUNG)
-x
-x
-x
+Frontplatte / Tür + Griff:
 
 - Platziere den Griff mittig auf der Frontplatte/Tür
   - Achte darauf, dass du den Griff auf der glatten Seite platzierst und nicht auf der angerauten Seite. Die angeraute seite soll auf der Innenseite des Nistkastens liegen
@@ -117,7 +114,6 @@ x
   - Die Bohrungen einfach mittig auf der Fläche platzieren oder verwende die beiden drehbaren Halter aus Recyclingkunststoff als Schablone zum Anzeichnen
   - Es reicht, wenn die Löcher ungefähr so tief sind wie die Schraubenlänge (ca. 2,5 cm)
  
-
 ![](tuer_4.png) ![](tuer_5.png)
 
 - Wichtig: Stelle sicher, dass du die drehbaren Halter so platzierst, dass sie
@@ -126,11 +122,15 @@ x
 
 ![](tuer_6.png) ![](tuer_7.png)
 
-- (DACH BEFESTIGUNG)
-x
-x
+Dach:
+
+- Platziere das Dach mittig auf die Oberseite des Nistkastens
+- Achte darauf, dass das Dach hinten nicht übersteht, weil da später noch das Plastikbrett für die rückseitige Befestigung dran muss (siehe Bild unten, grüner Rahmen und grüner Pfeil)
+- Verwende 4x Holzschrauben vom Typ 3,5 x 25 zum Befestigen des Dachs
 
 ![](10.png) ![](11.png)
+
+![](dach_seite.png)
 
 (RÜCKSEITE BRETT)
 x
