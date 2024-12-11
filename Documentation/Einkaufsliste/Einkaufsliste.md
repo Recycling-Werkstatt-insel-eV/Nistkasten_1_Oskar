@@ -36,8 +36,8 @@ Die unten angegebenen Schraubengrößen können auch leicht abweichen, solange s
 
 ## Holz
 
-- 1x Brett 80 x 20 x 1,8 cm aus Fichtenholz
-- 1x Brett 80 x 25 x 1,8 cm aus Fichtenholz
+- 1x Brett 800 x 200 x 18 mm aus Fichtenholz
+- 1x Brett 800 x 250 x 18 mm aus Fichtenholz
 
 ## Kunststoffplatten
 
