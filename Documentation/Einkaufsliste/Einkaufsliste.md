@@ -41,7 +41,7 @@ Die unten angegebenen Schraubengrößen können auch leicht abweichen, solange s
 
 ## Kunststoffplatten
 
-- eine oder mehrere Platten aus Recyclingkunststoff, sodass sich folgende Teile herstellen lassen:
+- Eine oder mehrere Platten aus Recyclingkunststoff, sodass sich folgende Teile herstellen lassen:
   - 1x Frontplatte 156 x 45 mm (Stärke: 4 bis 5 mm)
   - 3x drehbarer Halter 45 x 18 mm (Stärke 4 bis 5 mm)
   - Dach 220 x 180 mm (Stärke: 5 bis 8 mm)
