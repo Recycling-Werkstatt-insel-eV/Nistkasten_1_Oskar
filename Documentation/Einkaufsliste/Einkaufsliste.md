@@ -2,7 +2,7 @@
 
 Die Mengenangaben in dieser Einkaufsliste beziehen sich auf **einen** Nistkasten. Falls mehrere Nistkästen gebaut werden sollen, können natürlich entsprechend größere Mengen besorgt werden
 
-Zum Thema Holz:
+**Zum Thema Holz:**
 
 Der NABU empfiehlt zum Thema Holzart folgendes:
 
@@ -12,7 +12,7 @@ _"Verwenden Sie zum Bau von Nistkästen 1,8 Zentimeter dicke, ungehobelte Brette
 
 Für unsere Zwecke haben wir uns für Fichtenholzbretter aus dem Baumarkt entschieden, da sie einen gutes Verhältnis aus Kosten und Eignung bieten. Zudem haben wir in unseren Tests festgestellt, dass sich Fichtenholzbretter gut mit dem Lasercutter schneiden bzw. mit der CNC-Fräse fräsen lassen. Es können aber, entsprechend der oben stehenden Empfehlungen, auch andere Holzarten verwendet werden.
 
-Zum Thema Recyclingkunststoff:
+**Zum Thema Recyclingkunststoff:**
 
 Die Offene Recycling-Werkstatt vom insel e.V. Hamburg verfügt über Maschinen, mit denen sich Platten und Balken (sogenannte "Beams") aus Recyclingkunststoff herstellen lassen. Die Maschinen und Verfahren basieren auf dem "Precious Plastic"-Projekt https://www.preciousplastic.com/ (daher stammt auch der englischsprachige Begriff "Beam" - die Platten werden auf englisch "Sheets" genannt).
 
@@ -20,7 +20,7 @@ Die Platten und Balken können, falls die notwendigen Maschinen vorhanden sind, 
 
 Für die genauen Maße der Kunststoffteile können auch die technischen Zeichnungen in der Sektion "Fertigung der Kunststoffteile" eingesehen werden: (LINK)
 
-Zum Thema Schrauben:
+**Zum Thema Schrauben:**
 
 Die unten angegebenen Schraubengrößen können auch leicht abweichen, solange sie einerseits einen sicheren Halt bieten und andererseits nicht zu weit aus dem Material herausragen.
 
