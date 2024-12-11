@@ -1,14 +1,10 @@
 # Vogelnistkasten für Workshops - Bauanleitung
 
-## Beschreibung
-(Kurzer Einleitungstext, der das Vogelhaus beschreibt)
-
 ## Bauteile anfertigen
 
 Bevor der Nistkasten nach dieser Anleitung zusammengebaut wird, sollten die Teile alle angefertigt werden.
 
-Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../README.md) und bearbeite die Punkte: "Holzteile anfertigen", "Kunststoffteile anfertigen" und "Kaufteile".
-
+Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../README.md) und bearbeite die Punkte: "Fertigung der Holzteile", "Fertigung der Kunststoffteile" und besorge die Teile von der "Einkaufsliste".
 
 ## Material- und Werkzeugliste
 
@@ -152,3 +148,5 @@ Zusätzliche drehbare Halterung (nur, falls notwendig):
 - Falls eine der Lochplatten nicht gut hält und leicht herausrutscht, kann sie durch einen zusätzlichen drehbaren Halter gesichert werden (siehe Bild)
 
 <img width="400" src="zusatz_halter.png">
+
+Der Nistkasten ist nun bereit zum Aufhängen. Hier geht es [zurück zur Übersicht](../README.md), dort weiter mit Punkt 6 "Aufhängung der Kästen und Pflege".
