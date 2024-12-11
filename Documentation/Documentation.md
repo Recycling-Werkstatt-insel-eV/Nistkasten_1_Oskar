@@ -2,9 +2,9 @@
 
 ## Bauteile anfertigen
 
-Bevor der Nistkasten nach dieser Anleitung zusammengebaut wird, sollten die Teile alle angefertigt werden.
+Bevor der Nistkasten nach dieser Anleitung zusammengebaut wird, sollten alle Holz- und Kunststoff-Teile angefertigt werden.
 
-Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../README.md) und bearbeite die Punkte: "Fertigung der Holzteile", "Fertigung der Kunststoffteile" und besorge die Teile von der "Einkaufsliste".
+Falls du das noch nicht gemacht hast, gehe [zurück zur Übersicht](../README.md) und bearbeite die Punkte: "Fertigung der Holzteile", "Fertigung der Kunststoffteile" und besorge vorher die Teile von der "Einkaufsliste".
 
 ## Material- und Werkzeugliste
 
@@ -31,7 +31,7 @@ Zugesägte Teile aus Recycling-Kunststoff:
 - 1x Plastikbrett für die Rückseite (Baumbefestigung) aus Recyclingkunststoff
 
 Sonstiges:
-- 2x Schnur (jeweils ca. 15 cm lang) (Optional, geht auch ohne - zur Sicherung der Frontklappe/Tür)
+- 2x Schnur (jeweils ca. 15-20 cm lang) (Optional, geht auch ohne - zur Sicherung der Frontklappe/Tür)
 
 ### Werkzeuge
 
@@ -50,6 +50,7 @@ Vorbereitung:
 
 - Überprüfe, ob alle Teile vorhanden sind (vergleiche Bild unten - nicht alle Teile sind in dem Bild zu sehen, aber die Teile im Bild werden zuerst benötigt)
 - Die linke Wand und rechte Wand sehen etwas unterschiedlich aus - Stelle sicher, dass du sie richtig anordnest
+- Überprüfe, ob die vier Löcher in der Bodenplatte frei sind. Diese sind sehr wichtig, damit Regenwasser innerhalb des Nistkastens ablaufen kann. Falls einzelne Löcher nicht frei sind, bohre sie etwas auf (am besten mit einem 6 mm Bohrer und Akkuschrauber oder Standbohrmaschine)
 
 <img width="600" src="anordnung2.png">
 
@@ -73,13 +74,13 @@ Zusammenbau:
 
 <img width="400" src="01.png"> <img width="400" src="02.png">
 
-<img width="400" src="03.png"> <img width="400" src="04.png">
+<img width="400" src="03.png"> <img width="340" src="04.png">
 
-<img width="400" src="04_b.png">
+<img width="340" src="04_b.png">
 
 - Setze das Teil "Oberer Boden" in die Lücke ein (siehe Bild unten) und stelle sicher, dass es hineinpasst. Falls nicht, feile etwas nach.
 
-<img width="400" src="05.png"> <img width="400" src="06.png">
+<img width="400" src="05.png"> <img width="340" src="06.png">
 
 - Bohre an den markierten Stellen (Bild unten) zwei Bohrungen
   - Verwende einen Akkuschrauber mit 3 mm Bohrer
@@ -94,15 +95,16 @@ Zusammenbau:
   - Falls die Platte sehr leicht reingeht und keinen festen Sitz hat, kannst du die Schrauben etwas fester anziehen
   - Stelle sicher, dass die Lochplatte gut einschiebbar ist, aber trotzdem einen möglichst festen Sitz hat und nicht hinausrutscht
  
-  :bulb: Falls es nicht möglicht ist, den Sitz der Lochplatte festzubekommen und sie leicht herausrutscht, kannst du auch eine zusätzliche Drehhalterung montieren - mehr dazu ganz am Ende der Anleitung. 
+  :bulb: Falls es nicht möglicht ist, den Sitz der Lochplatte fest zu bekommen und sie leicht herausrutscht, kannst du auch eine zusätzliche Drehhalterung montieren - mehr dazu ganz am Ende der Anleitung. 
 
 <img width="300" src="07.png"> <img width="300" src="08.png"> <img width="300" src="09.png">
 
 Frontplatte / Tür + Griff:
 
 - Platziere den Griff mittig auf der Frontplatte/Tür
-  - Achte darauf, dass du den Griff auf der glatten Seite platzierst und nicht auf der angerauten Seite. Die angeraute seite soll auf der Innenseite des Nistkastens liegen
+  - Achte darauf, dass du den Griff auf der glatten Seite platzierst und nicht auf der angerauten Seite. Die angeraute Seite soll auf der Innenseite des Nistkastens liegen
 - Befestige den Griff mit zwei Schrauben 4 x 40. Wenn nötig, versenke die Schrauben etwas tiefer, sodass sie genug Halt im Holz haben
+- Achte darauf, dass die Schrauben nicht zu tief sitzen - sie sollen **nicht** auf der anderen Seite hinausgucken, weil sich die Vögel sonst daran verletzen könnten
 
 <img width="400" src="tuer_1.png"> <img width="400" src="tuer_2.png">
 
@@ -114,9 +116,11 @@ Frontplatte / Tür + Griff:
  
 <img width="400" src="tuer_4.png"> <img width="400" src="tuer_5.png">
 
+- Verwende 2 Holzschrauben vom Typ 3,5 x 25, um die beiden drehbaren Halter zu befestigen
 - Wichtig: Stelle sicher, dass du die drehbaren Halter so platzierst, dass sie
   - im geschlossenen Zustand die Tür festhalten
   - im geöffneten Zustand die Tür nicht blockieren
+- Falls sich die drehbaren Halter nicht gut drehen lassen bzw. blockieren, feile die Ecken etwas mit einer Feile nach 
 
 <img width="400" src="tuer_6.png"> <img width="400" src="tuer_7.png">
 
@@ -139,7 +143,7 @@ Plastikbrett Rückseite:
 
 Schnüre (optional):
 
-- Die Frontplatte/Tür kann zusätzlich mit zwei ca. 15 cm langen Schnüren gesichert werden
+- Die Frontplatte/Tür kann zusätzlich mit zwei ca. 15-20 cm langen Schnüren gesichert werden
 - Vorteil: Sobald der Nistkasten hoch im Baum hängt und die Tür geöffnet wird (zur Reinigung), kann sie nicht hinunterfallen bzw. muss man die Tür nicht die ganze Zeit in der Hand halten, sondern kann sie an den Schnüren hängen lassen
 - Die Schnüre einfach durch die Löcher in der Tür und im Boden führen (gelbe Linien im Bild unten) und festknoten
 
