@@ -1,12 +1,27 @@
 # Einkaufsliste
 
-(Angaben für 1 Nistkasten)
+Die Mengenangaben in dieser Einkaufsliste beziehen sich auf **einen** Nistkasten. Falls mehrere Nistkästen gebaut werden sollen, können natürlich entsprechend größere Mengen besorgt werden
 
-(Erklären, dass Fichte gut ist aber auch ander Holzarten gehen)
+Zum Thema Holz:
 
-(Erklärung was Precious Plastic und Beam ist)
+Der NABU empfiehlt zum Thema Holzart folgendes:
+"Verwenden Sie zum Bau von Nistkästen 1,8 Zentimeter dicke, ungehobelte Bretter aus Massivholz. Eiche, Robinie und Lärche oder Kiefer eignen sich am besten. Falls Ihnen diese Holzarten nicht zur Verfügung stehen, können Sie auch auf Fichte und Tanne zurückgreifen. Sperrholz oder Pressplatten sind nicht witterungsbeständig und daher für den Außeneinsatz ungeeignet."
 
-(Hinweis auf Technische Zeichnungen)
+Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/index.html , Abschnitt "Das richtige Material"
+
+Für unsere Zwecke haben wir uns für Fichtenholzbretter aus dem Baumarkt entschieden, da sie einen gutes Verhältnis aus Kosten und Eignung bieten. Zudem haben wir in unseren Tests festgestellt, dass sich Fichtenholzbretter gut mit dem Lasercutter schneiden bzw. mit der CNC-Fräse fräsen lassen. Es können aber, entsprechend der oben stehenden Empfehlungen, auch andere Holzarten verwendet werden.
+
+Zum Thema Recyclingkunststoff:
+
+Die Offene Recycling-Werkstatt vom insel e.V. Hamburg verfügt über Maschinen, mit denen sich Platten und Balken (sogenannte "Beams") aus Recyclingkunststoff herstellen lassen. Die Maschinen und Verfahren basieren auf dem "Precious Plastic"-Projekt https://www.preciousplastic.com/ (daher stammt auch der englischsprachige Begriff "Beam" - die Platten werden auf englisch "Sheets" genannt).
+
+Die Platten und Balken können, falls die notwendigen Maschinen vorhanden sind, selbst hergestellt werden. Sie können auch beim insel e.V. https://werkstatt.insel-ev.de/ oder auf dem "Precious Plastic Bazar" https://bazar.preciousplastic.com/ bestellt werden. Als Kunststoffsorte kommen sowohl PP als auch HDPE (PE) in Frage.
+
+Für die genauen Maße der Kunststoffteile können auch die technischen Zeichnungen in der Sektion "Fertigung der Kunststoffteile" eingesehen werden: (LINK)
+
+Zum Thema Schrauben:
+
+Die unten angegebenen Schraubengrößen können auch leicht abweichen, solange sie einerseits einen sicheren Halt bieten und andererseits nicht zu weit aus dem Material herausragen.
 
 ## Schrauben
 
