@@ -49,7 +49,7 @@ Die unten angegebenen Schraubengrößen können auch leicht abweichen, solange s
 
 Es können also beispielsweise folgende Platten besorgt werden:
 - Stärke 4-5 mm, Länge/Breite mindestens 280 x 220 mm 
-- Stärke 9-10 mm, Länge/Breite mindestens 440 x 85
+- Stärke 9-10 mm, Länge/Breite mindestens 440 x 85 mm
 
 ## Kunststoffbalken ("Beams")
 
