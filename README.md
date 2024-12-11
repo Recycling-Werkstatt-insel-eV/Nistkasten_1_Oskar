@@ -19,7 +19,15 @@ Für einen Nachbau wird empfohlen, die folgenden Kapitel in der vorgesehenen Rei
 
 ## CAD + Open Source
 
-Dieser Nistkasten wurde in der Open-Source-Software FreeCAD entwickelt. Die Datei kann im [Ordner CAD](CAD) heruntergeladen werden. Die Software FreeCAD ist kostenlos und kann auf https://www.freecad.org/ heruntergeladen werden. Alle Bauteile und Objekte in der CAD-Datei des Nistkastens können mit FreeCAD verändert werden, sodass es möglich ist, weitere Varianten zu entwickeln und ggf. öffentlich zu teilen, so wie dieses Projekt - ganz im Sinne von Open Source Hardware.
+Dieser Nistkasten wurde in der Open-Source-Software FreeCAD entwickelt. Die Datei kann im Ordner CAD heruntergeladen werden:
+
+- [Download der CAD-Datei (FreeCAD)](CAD)
+
+Die Software FreeCAD ist kostenlos und kann auf https://www.freecad.org/ heruntergeladen werden:
+
+- [Download der Software FreeCAD](https://www.freecad.org/)
+
+Alle Bauteile und Objekte in der CAD-Datei des Nistkastens können mit FreeCAD verändert werden, sodass es möglich ist, weitere Varianten zu entwickeln und ggf. öffentlich zu teilen, so wie dieses Projekt - ganz im Sinne von Open Source Hardware.
 
 ## Lizenz
 
