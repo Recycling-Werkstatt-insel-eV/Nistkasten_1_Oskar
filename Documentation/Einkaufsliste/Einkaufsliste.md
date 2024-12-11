@@ -48,7 +48,7 @@ Die unten angegebenen Schraubengrößen können auch leicht abweichen, solange s
   - Brett Rückseite 440 x 85 mm (Stärke: 9 bis 10 mm)
 
 Es können also beispielsweise folgende Platten besorgt werden:
-- Stärke 4-5 mm, Länge/Breite mindestens A x B 
+- Stärke 4-5 mm, Länge/Breite mindestens 280 x 220 mm 
 - Stärke 9-10 mm, Länge/Breite mindestens 440 x 85
 
 ## Kunststoffbalken ("Beams")
