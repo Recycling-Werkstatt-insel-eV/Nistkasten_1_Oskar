@@ -1,5 +1,7 @@
 # Einkaufsliste
 
+(Angaben für 1 Nistkasten)
+
 (Erklären, dass Fichte gut ist aber auch ander Holzarten gehen)
 
 (Erklärung was Precious Plastic und Beam ist)
