@@ -68,7 +68,7 @@ Zusammenbau:
 
 - Beginne nun mit den Teilen Boden, linke Wand, Rückwand und rechte Wand und stecke sie in dieser Reihenfolge zusammen
 - Du kannst 1-2 Schraubzwingen benutzen, um die Teile vorläufig zusammenzuhalten
-  Verwende 6 Holzschrauben vom Typ 4 x 30, um die Teile an den vorgesehenen Bohrungen miteinander zu verbinden (nutze einen Akkuschrauber oder einen Schraubendreher)
+- Verwende 6 Holzschrauben vom Typ 4 x 30, um die Teile an den vorgesehenen Bohrungen miteinander zu verbinden (nutze einen Akkuschrauber oder einen Schraubendreher)
 - An den beiden Seitenteilen (links/rechts) sind ganz unten jeweils zwei Bohrungen; An der Rückwand sind auf mitterer Höhe zwei Bohrungen (siehe Bilder unten)
 
 <img width="400" src="01.png"> <img width="400" src="02.png">
