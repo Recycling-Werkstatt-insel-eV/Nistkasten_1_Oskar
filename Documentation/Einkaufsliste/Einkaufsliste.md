@@ -5,9 +5,10 @@ Die Mengenangaben in dieser Einkaufsliste beziehen sich auf **einen** Nistkasten
 Zum Thema Holz:
 
 Der NABU empfiehlt zum Thema Holzart folgendes:
-"Verwenden Sie zum Bau von Nistkästen 1,8 Zentimeter dicke, ungehobelte Bretter aus Massivholz. Eiche, Robinie und Lärche oder Kiefer eignen sich am besten. Falls Ihnen diese Holzarten nicht zur Verfügung stehen, können Sie auch auf Fichte und Tanne zurückgreifen. Sperrholz oder Pressplatten sind nicht witterungsbeständig und daher für den Außeneinsatz ungeeignet."
 
-Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/index.html , Abschnitt "Das richtige Material"
+_"Verwenden Sie zum Bau von Nistkästen 1,8 Zentimeter dicke, ungehobelte Bretter aus Massivholz. Eiche, Robinie und Lärche oder Kiefer eignen sich am besten. Falls Ihnen diese Holzarten nicht zur Verfügung stehen, können Sie auch auf Fichte und Tanne zurückgreifen. Sperrholz oder Pressplatten sind nicht witterungsbeständig und daher für den Außeneinsatz ungeeignet."_
+
+- Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/index.html , Abschnitt "Das richtige Material"
 
 Für unsere Zwecke haben wir uns für Fichtenholzbretter aus dem Baumarkt entschieden, da sie einen gutes Verhältnis aus Kosten und Eignung bieten. Zudem haben wir in unseren Tests festgestellt, dass sich Fichtenholzbretter gut mit dem Lasercutter schneiden bzw. mit der CNC-Fräse fräsen lassen. Es können aber, entsprechend der oben stehenden Empfehlungen, auch andere Holzarten verwendet werden.
 
