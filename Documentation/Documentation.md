@@ -15,7 +15,9 @@ Schrauben:
 - 12 x Holzschrauben vom Typ 3,5 x 25
 - 2 x Holzschrauben vom Typ 4 x 40
 
-:bulb: Alle Schrauben möglichst mit Senkkopf (Kreuzschlitz oder Torx). Schraubengrößen können auch leicht abweichen.
+:bulb: Alle Schrauben möglichst mit Senkkopf (Kreuzschlitz oder Torx). Schraubengrößen können auch leicht abweichen. Abbildungen unten nur zur Orientierung, Aussehen der Schrauben kann auch abweichen.
+
+<img width="200" src="schrauben1.png"> <img width="200" src="schrauben2.png">
 
 Lasergeschnittene bzw. CNC-gefräste Holzteile:
 - 7x Holzteile (lasergeschnitten oder CNC-gefräst), davon eine Lochplatte mit Einflugloch
