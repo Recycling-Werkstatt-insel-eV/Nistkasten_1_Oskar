@@ -21,7 +21,7 @@ Schrauben:
 
 Lasergeschnittene bzw. CNC-gefräste Holzteile:
 - 7x Holzteile (lasergeschnitten oder CNC-gefräst), davon eine Lochplatte mit Einflugloch
-- 2x weitere Lochplatten mit unterschiedlichen Durchmessern
+- 2x weitere Lochplatten mit unterschiedlichen Lochdurchmessern
 
 Zugesägte Teile aus Recycling-Kunststoff:
 
@@ -42,7 +42,7 @@ Sonstiges:
 - 1-2 Schraubzwingen (optional, vereinfacht die Montage)
 - Feile (falls Teile nicht passen und nachbearbeitet werden müssen)
 - Raspel (zum Anrauen der Innenfläche der Frontplatte/Tür)
-- Standbohrmaschine (falls sich herausstellt, dass noch irgendwo noch Bohrungen fehlen - eigentlich anzufertigen im Abschnitt xxx)
+- Standbohrmaschine (falls sich herausstellt, dass noch irgendwo Bohrungen fehlen - eigentlich anzufertigen im Abschnitt "Fertigung der Holzteile" bzw. "Fertigung der Kunststoffteile")
 
 ## Bauanleitung
 
