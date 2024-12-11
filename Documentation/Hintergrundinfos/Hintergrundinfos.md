@@ -1,6 +1,6 @@
 # Hintergrundinfos
 
-Dieser Vogelnistkasten wurde im Rahmen eines Projekts beim insel e.V. in Hamburg entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
+Dieser Vogelnistkasten wurde im Rahmen eines Projekts beim insel e.V. in Hamburg https://werkstatt.insel-ev.de/ entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
 
 Der Nistkasten ist für verschiedene Höhlenbrüter-Vogelarten geeignet.
 
@@ -18,7 +18,7 @@ Ziel der Produktentwicklung war es, einen Nistkasten zu entwickeln, der
 
 ### Zu Punkt 1: Nachhaltige Materialien
 
-Eine Besonderheit der Offene Recycling-Werkstatt, betrieben vom insel e.V. in Hamburg, besteht in Form von Werkzeugen und Prozessen zum Recycling von Kunststoffen (Plastik) und Herstellung von neuen Produkten aus Recyclingplastik. Die Werkstatt verfügt u.a. über Granulatmühlen (Schredder) zum zerkleinern von Kunststoffabfällen sowie über eine Plattenpresse. Das zerkleinerte Plastikgranulat kann in der Plattenpresse zu großen Platten aus Recyclingplastik gepresst werden. Diese Platten können anschließend weiterverarbeitet werden, z.B. mit Tischkreissägen oder Bohrmaschinen. 
+Eine Besonderheit der Offene Recycling-Werkstatt, betrieben vom insel e.V. in Hamburg, besteht in Form von Werkzeugen und Prozessen zum Recycling von Kunststoffen (Plastik) und Herstellung von neuen Produkten aus Recyclingplastik. Die Werkstatt verfügt u.a. über Granulatmühlen (Schredder) zum Zerkleinern von Kunststoffabfällen sowie über eine Plattenpresse. Das zerkleinerte Plastikgranulat kann in der Plattenpresse zu großen Platten aus Recyclingplastik gepresst werden. Diese Platten können anschließend weiterverarbeitet werden, z.B. mit Tischkreissägen oder Bohrmaschinen. 
 
 Daher bestand ein Ziel darin, die Vogelnistkästen, zumindest teilweise, aus Recyclingkunststoff herzustellen. Während der Konzeptionsphase stellte sich heraus, dass ein Vogelnistkasten nicht vollständig aus Plastik bestehen sollte (dies auch dank der Beratung durch die teilnehmenden NABU-Mitglieder). Plastikkästen heizen sich in der Sonne zu stark auf, was den Vögeln schadet, zudem ist Plastik (im Gegensatz zu Holz) nicht atmungsaktiv und es sammelt sich Feuchtigkeit im Innenraum.
 
@@ -50,7 +50,7 @@ Der Nistkasten wurde so designt, dass sich alle Teile wieder einfach voneinander
 
 ### Zu Punkt 6: Nutzen für Vögel/Artenvielfalt
 
-Dadurch, dass die wesentlichen Teile aus Holz bestehen, bietet der Nistkasten ein gutes Innenklima für (Jung)vögel. Der Kasten ist dank der Schraubverbindungen sehr stabil, auch bei Wind und Wetter. Durch die austauschbaren Lochplatten können verschiedene Vogelarten angesprochen werden. Falls andere Vogelarten unterstützt werden sollen oder falls sich herausstellt, dass die ursprünglich vorgesehen Vogelart gar nicht in der Gegend verkehrt, kann einfach eine Lochplatte mit anderem Lochdurchmesser eingeschoben werden. Es muss also kein neuer Kasten gebaut, sondern nur die Platte ausgetauscht werden, was den Kasten zusätzlich nachhaltig macht.
+Dadurch, dass die wesentlichen Teile aus Holz bestehen, bietet der Nistkasten ein gutes Innenklima für (Jung)vögel. Der Kasten ist dank der Schraubverbindungen sehr stabil, auch bei Wind und Wetter. Durch die austauschbaren Lochplatten können verschiedene Vogelarten angesprochen werden. Falls andere Vogelarten unterstützt werden sollen oder falls sich herausstellt, dass die ursprünglich vorgesehe Vogelart gar nicht in der Gegend verkehrt, kann einfach eine Lochplatte mit anderem Lochdurchmesser eingeschoben werden. Es muss also kein neuer Kasten gebaut, sondern nur die Platte ausgetauscht werden, was den Kasten zusätzlich nachhaltig macht.
 
 ## Vogelarten und Einfluglochgrößen
 
@@ -79,11 +79,11 @@ Falls man sich unsicher ist und sowieso mehrere Nistkästen aufhängt, kann man 
 
 Quelle: NABU - https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/01083.html
 
-Für diesen Nistkasten wurden drei verschiedene Lochgrößen entworfen: 27 mm, 32 mm und 45 mm. Damit lassen sich fast alle der Vogelarten in der oben stehenden Tabelle abdecken.
+Für diesen Nistkasten wurden drei verschiedene Lochgrößen entworfen: 27 mm, 32 mm und 45 mm. Damit lassen sich fast alle Vogelarten in der oben stehenden Tabelle abdecken.
 
 Ein Vorschlag für einige ausgewählte Vogelarten ist in folgendem Bild zu sehen:
 
-<img width="400" src="lochplatten.png">
+<img width="600" src="lochplatten.png">
 
 Für den ersten Zusammenbau im Bauworkshop kann zunächst eine beliebige Lochplatte verwendet werden. Die anderen beiden Lochplatten kann man ebenfalls herstellen und mitnehmen, um sie später je nach Bedarf austauschen zu können.
 
