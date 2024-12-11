@@ -54,3 +54,11 @@ Es können also beispielsweise folgende Platten besorgt werden:
 ## Kunststoffbalken ("Beams")
 
 Ein Stück 48 x 33 x 23 mm, abgeschnitten von einem Kunststoff-Balken ("Beam")
+
+## Aluminiumnägel
+
+Für die Befestigung der Nistkästen an Bäumen sollten pro Nistkasten zwei Alunägel verwendet werden. Mehr zum Thema im Abschnitt 6 "Aufhängung der Kästen und Pflege"
+
+- 2x Alunägel 4,5 x 60 oder 4,5 x 80
+
+Hier geht es [zurück zur Übersicht](../../README.md), dort weiter mit Punkt 3 "Fertigung der Holzteile (Lasercutting oder CNC-Fräsen)".
