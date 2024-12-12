@@ -22,7 +22,7 @@ In dem oben verlinkten Dokument (LINK) wird beispielhaft eine Möglichkeit des L
 
 ## CNC-Fräsen
 
-Mit einer CNC-Fräse haben wir sehr gute und saubere Ergebnisse erzielt. Die CNC-Fräse sollte möglichst groß genug sein, um die 80 x 20 cm großen Bretter bearbeiten zu können, sodass alle Teile pro Brett in einem Durchgang gefräst werden können. Bei kleineren CNC-Maschinen müssten die Teile ggf. einzeln aus kleineren Brettern gefräst werden.
+Mit einer CNC-Fräse haben wir sehr gute und saubere Ergebnisse erzielt. Die CNC-Fräse sollte möglichst groß genug sein, um die 80 x 25 cm großen Bretter bearbeiten zu können, sodass alle Teile pro Brett in einem Durchgang gefräst werden können. Bei kleineren CNC-Maschinen müssten die Teile ggf. einzeln aus kleineren Brettern gefräst werden.
 
 Wir haben eine CNC-Fräsmaschine vom Typ "WorkBee Z1+" von der Firma Ooznest verwendet, was sehr gut funktioniert hat.
 
