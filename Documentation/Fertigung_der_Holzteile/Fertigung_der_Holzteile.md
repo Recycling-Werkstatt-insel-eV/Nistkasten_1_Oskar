@@ -26,7 +26,7 @@ Mit einer CNC-Fräse haben wir sehr gute und saubere Ergebnisse erzielt. Die CNC
 
 Wir haben eine CNC-Fräsmaschine vom Typ "WorkBee Z1+" von der Firma Ooznest verwendet, was sehr gut funktioniert hat.
 
-Der Fräser sollte mindestens 18-20 mm lang sein, um die 18 mm dicken Bretter komplett durchfräsen zu können.
+Der Fräser sollte mindestens 18-22 mm lang sein, um die 18 mm dicken Bretter komplett durchfräsen zu können.
 Wir haben folgenden Fräser benutzt und damit sehr gute Erfahrungen gemacht: VHM Holzfräser, d=4, L=22 (C), Z=2, Blank
 
 In dem oben verlinkten Dokument (LINK) wird beispielhaft eine Möglichkeit für CNC-Fräsen beschrieben.
