@@ -47,7 +47,7 @@ Für das schmale Brett mit 20 cm Breite (800 x 200 x 18 mm) wird folgende Anordn
 
 ![](20cm_overview.png)
 
-Die SVG-Datei kann hier (LINK) heruntergeladen werden.
+Die SVG-Datei kann [hier](../) heruntergeladen werden.
 
 ## Breites Brett (25 cm Breite)
 
@@ -55,18 +55,39 @@ Für das schmale Brett mit 20 cm Breite (800 x 250 x 18 mm) wird folgende Anordn
 
 ![](25cm_overview.png)
 
-Die SVG-Datei kann hier (LINK) heruntergeladen werden.
+Die SVG-Datei kann [hier](../) heruntergeladen werden.
 
-## Anbindung und freigefräste Ecken
+## Fräsbahnen definieren
 
-Es wird empfohlen, alle Teile mit Stegen anzubinden und die Ecke freizufräsen (TEXT WEITER ERGÄNZEN)
+Zunächst müssen die Fräsbahnen definiert werden (siehe gelb markierte Bahnen in den Abbildungen oben). In Estlcam kann die Funktion "Teil" genutzt werden, um die Außenbahnen der Teile festzulegen. Für die Innenbahnen (Einflugloch in der Lochplatte sowie die vier Wasserablauflöcher im Boden) wird die Funktion "Ausschnitt" verwendet.
 
-Bilder:
+## Anbindung der Teile
 
-![](detail3.png)  ![](detail4.png)
+Alle Teile sollten mit Stegen angebunden werden. In den Abbildungen oben sind die gelben Fräsbahnen an einigen Stellen unterbrochen. Es wird empfohlen, die Anbindestege an diesen Stellen zu platzieren. Eine andere Anordnung ist jedoch auch möglich, solange sichergestellt ist, dass die Teile beim ausfräsen einen sicheren Halt haben.
 
-![](detail1.png) ![](detail2.png)
+In Estlcam kann hierfür eine Fräsbahn ausgewählt und anschließend die Funktion "Anbinden" genutzt werden.
+
+Hier noch ein Detailbild von der inneren Fräsbahn beim Einflugloch mit den vier Unterbrechungen (Stellen für die Anbindestege):
+
+<img width="300" src="detail2.png">
+
+Die Zahl "45" (siehe oberes Bild) zeigt den Lochdurchmesser zur Orientierung an. Die Zahl sollte nicht gefräst werden (oder mit einem sehr kleinen Fräser "eingraviert" werden). Die Zahl kann nach dem Fräsen von Hand draufgeschrieben oder mit einem Lasercutter eingraviert werden.
+
+## Ecken freifräsen
+
+Damit die Teile später gut zusammenpassen, wir empfohlen, alle innenliegenden Ecken freizufräsen. Hintergrund ist, dass der Fräsen wegen seines runden Querschnitts innenliegende Ecken nicht ganz freifräsen kann, sondern immer eine Rundung mit dem Durchmesser des Fräsers übrig bleibt.
+
+In Estlcam kann hierfür eine Fräsbahn ausgewählt und anschließend die Funktion "Freifräsen" genutzt werden.
+
+Die folgenden zwei Abbildungen zeigen ein Beispiel für freigefräste Ecken. Im ersten Bild links sind die Ecken noch nicht freigefräst, im zweiten Bild rechts wurde "Freifräsen" korrekt hinzugefügt:
+
+<img width="300" src="detail3.png"> <img width="300" src="detail4.png">
+
+## Prüfung und CNC-Programm-Export
+
+Abschließend sollte jede Fräsbahn nochmals ausgewählt und kontrolliert werden, ob die Parameter und der Fräser richtig eingestellt sind. Danach kann die Datei als über Datei > CNC-Programm speichern exportiert werden. Als Bauteilhöhe sollte die Brettdicke (18 mm) oder etwas mehr eingestellt werden.
 
 ## Nachbearbeitung
 
-(TEXT)
+xx
+
