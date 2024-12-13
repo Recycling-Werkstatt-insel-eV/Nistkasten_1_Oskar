@@ -1,7 +1,5 @@
 # Lasercutting
 
-(Beschreibung)
-
 Es ist möglich, die Holzteile für den Vogelnistkasten mit einem Lasercutter zu schneiden. Allerdings sind nicht alle Lasercutter dafür geeignet.
 
 Zunächst sollte sichergestellt werden, dass der Lasercutter in der Lage ist, 18 mm dicke Holzbretter aus Fichtenholz zu schneiden. Hierfür muss die Bedienungsanleitung des Lasercutter geprüft oder beim Hersteller des Lasercutter nachgefragt werden. In diesem Projekt wurde ein CO2-Lasercutter mit 130 W Laserleistung eingesetzt. Bei Lasercuttern mit weniger Leistung muss genau geprüft bzw. getestet werden, ob die Holzbretter durchgeschnitten werden können.
