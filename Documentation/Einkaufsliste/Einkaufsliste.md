@@ -18,7 +18,7 @@ Die Offene Recycling-Werkstatt vom insel e.V. Hamburg verfügt über Maschinen, 
 
 Die Platten und Balken können, falls die notwendigen Maschinen vorhanden sind, selbst hergestellt werden. Sie können auch beim insel e.V. https://werkstatt.insel-ev.de/ oder auf dem "Precious Plastic Bazar" https://bazar.preciousplastic.com/ bestellt werden. Als Kunststoffsorte kommen sowohl PP als auch HDPE (PE) in Frage.
 
-Für die genauen Maße der Kunststoffteile können auch die technischen Zeichnungen in der Sektion "Fertigung der Kunststoffteile" eingesehen werden: (LINK)
+Für die genauen Maße der Kunststoffteile können auch die technischen Zeichnungen in der Sektion [Fertigung der Kunststoffteile](../../Documentation/Fertigung_der_Kunststoffteile/Fertigung_der_Kunststoffteile.md) eingesehen werden.
 
 **Zum Thema Schrauben:**
 
