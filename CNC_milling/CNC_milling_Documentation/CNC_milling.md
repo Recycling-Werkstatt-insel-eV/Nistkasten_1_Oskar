@@ -89,5 +89,7 @@ Abschließend sollte jede Fräsbahn nochmals ausgewählt und kontrolliert werden
 
 ## Nachbearbeitung
 
-xx
+An den fertig gefrästen Teilen können die Haltestege vorsichtig mit einem stabilen Cuttermesser durchgeschnitten werden. Es können auch kleine Handsägen, Stichsägen oder andere Werkzeuge verwendet werden. Ggf. übrige Reste abschleifen oder feilen.
+
+Die folgenden Abbildungen zeigen den Fräsvorgang sowie die Haltestege:
 
