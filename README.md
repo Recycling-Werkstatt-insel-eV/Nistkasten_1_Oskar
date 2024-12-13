@@ -13,7 +13,7 @@ Für einen Nachbau wird empfohlen, die folgenden Kapitel in der vorgesehenen Rei
 1. 💡 [Hintergrundinfos](Documentation/Hintergrundinfos/Hintergrundinfos.md)
 2. 🛒 [Einkaufsliste](Documentation/Einkaufsliste/Einkaufsliste.md)
 3. 🪵 [Fertigung der Holzteile (Lasercutting oder CNC-Fräsen)](Documentation/Fertigung_der_Holzteile/Fertigung_der_Holzteile.md)
-4. ♻️ Fertigung der Kunststoffteile
+4. ♻️ [Fertigung der Kunststoffteile](Documentation/Fertigung_der_Kunststoffteile/Fertigung_der_Kunststoffteile.md)
 5. 🛠️ [Zusammenbau](Documentation/Documentation.md)
 6. 🐣 Aufhängung der Kästen und Pflege
 
