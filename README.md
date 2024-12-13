@@ -1,6 +1,6 @@
 # Vogelnistkasten aus Recycling-Kunststoff und Holz - für Bauworkshops
 
-Dieser Vogelnistkasten wurde so konzipiert, dass er einige Teile aus Recycling-Kunststoff (Plastikplatten aus der "Precious-Plastic"-Plattenpresse) und Wände sowie der Boden aus Holzplatten bestehen. Die Holzteile lassen sich mit einem geeigneten Lasercutter ausschneiden oder auch mit einer CNC-Fräse sehr gut aus Holzbrettern fräsen.
+Dieser Vogelnistkasten wurde so konzipiert, dass einige Teile aus Recycling-Kunststoff (Plastikplatten aus der "Precious-Plastic"-Plattenpresse) und Wände sowie der Boden aus Holzplatten bestehen. Die Holzteile lassen sich mit einem geeigneten Lasercutter ausschneiden oder auch mit einer CNC-Fräse aus Holzbrettern fräsen.
 
 Durch seinen einfachen Aufbau ist dieser Nistkasten sehr gut für Bauworkshops geeignet, sowohl für Grundschulkinder als auch für ältere Jugendliche oder Erwachsene.
 
