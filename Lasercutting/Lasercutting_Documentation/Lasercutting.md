@@ -6,7 +6,7 @@ Zunächst sollte sichergestellt werden, dass der Lasercutter in der Lage ist, 18
 
 In unserem Fall haben wir ein Lasercutter-Modell Omtech Max 1493 / USB1410b (130 Watt) benutzt. Die Fertigung war erfolgreich, wenn auch mit ein paar Komplikationen verbunden, z.B. gingen manche Schnitte nicht ganz durch, sodass mit einer Stichsäge nachgesägt werden musste. Zudem waren die Kanten/Ränder relativ stark verbrannt und schwarz, sodass wir viel mit Tellerschleifer und Schleifpapier nacharbeiten mussten. Auch die Rauchentwicklung beim Lasercutting war recht stark, eine gute Abluftanlage wird auf jeden Fall benötigt.
 
-Daher wird eher das CNC-Fräsen empfohlen, das deutlich weniger Probleme macht. Es kann auch sein, dass andere Lasercutter oder andere Einstellungen zu besseren Ergebnissen führen - daher gerne ausprobieren und bei Erfolg freuen wir uns über eine Rückmeldung.
+Daher wird eher das CNC-Fräsen empfohlen (Beschreibung siehe [hier](../../Documentation/Fertigung_der_Holzteile/Fertigung_der_Holzteile.md)), das deutlich weniger Probleme macht. Es kann auch sein, dass andere Lasercutter oder andere Einstellungen zu besseren Ergebnissen führen - daher gerne ausprobieren und bei Erfolg freuen wir uns über eine Rückmeldung.
 
 Im Folgenden wird beispielhaft eine Möglichkeit des Lasercuttings der Teile beschrieben. Die Teile wurden auf zwei Bretter Fichtenholz (800 x 200 x 18 mm und 800 x 250 x 18 mm) verteilt. Das Lasercutter-Modell war ein Omtech Max 1493 / USB1410b (130 Watt) unter Verwendung der Software "Lightburn".
 
