@@ -31,4 +31,22 @@ Alle Bauteile und Objekte in der CAD-Datei des Nistkastens können mit FreeCAD v
 
 ## Lizenz
 
-(Lizenzinfos)
+Das Design, die CAD-Dateien, die Materiallisten und alle dazugehörigen Dateien dieses Vogelnistkastens sind unter folgender Lizenz veröffentlicht:
+
+- [CERN Open Hardware Licence Version 2 Weakly Reciprocal - CERN-OHL-W](https://cern-ohl.web.cern.ch/)
+
+Die Dokumentation, Bauanleitung, Abbildungen und Texte in diesem Verzeichnis sind unter folgender Lizenz veröffentlicht:
+
+- [Creative-Commons-Attribution-ShareAlike 4.0 International - CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
+**Autor:** Oskar Lidtke, https://github.com/orcular-org/
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>.
+
+Für die empfohlene, korrekte Anwendung der Creative-Commons-Namensnennung (engl. "attribution"), siehe [hier](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) und für die Kennzeichnung der eigenen Arbeit mit Creative Commons, siehe [hier](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license).
+
+<p align="left">
+<i> <sub> Open Source Hardware logo, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> - <a href="https://www.oshwa.org/open-source-hardware-logo/">Source</a> </sub></i>
+</p>
+
+<img width="200" src="Documentation/oshw-logo.svg">
