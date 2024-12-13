@@ -1,6 +1,6 @@
 # Fertigung der Kunststoffteile
 
-Die Kunststoffteile können..
+Die Kunststoffteile können z.B. mit Tischkreissägen und Bohrmaschinen hergestellt werden. Dieses Dokument enthält alle wichtigen Infos dazu. Die Zeichnungen können als PDF-Datei heruntergeladen können (Link ganz unten).
 
 Das Lasercutting von Kunststoffplatten haben wir getestet, es führte jedoch nicht zu guten Ergebnissen und zu starker Rauchbildung. Es wird davon abgeraten, Kunststoffteile mit dem Lasercutter zu schneiden. Stattdessen sollten Kunststoffplatten entweder mit Kreissägen, Bohrmaschinen etc. hergestellt werden (so haben wir es auch gemacht). CNC-Fräsen wäre prinzipiell auch möglich. Die entsprechenden Vektorgrafiken können aus der [FreeCAD-Datei](../../CAD) heraus mittels der Funktion [Shape2DView](https://wiki.freecad.org/Draft_Shape2DView) erstellt werden.
 
