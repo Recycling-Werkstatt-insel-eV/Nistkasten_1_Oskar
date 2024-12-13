@@ -18,6 +18,10 @@ Das Lasercutten von 18 mm dicken Holzbrettern ist grundsätzlich möglich, aller
 
 Das Schneiden von Kunststoffplatten haben wir getestet, es führte jedoch nicht zu guten Ergebnissen und zu starker Rauchbildung. Es wird davon abgeraten, Kunststoffteile mit dem Lasercutter zu schneiden. Stattdessen sollten Kunststoffplatten entweder mit Kreissägen oder mit der CNC-Fräse bearbeitet werden - mehr dazu im Dokument "Fertigung der Kunststoffteile".
 
+## SVG-Dateien
+
+Die 2D-SVG-Vektorgrafiken können [hier](../) heruntergeladen werden. Bei Bedarf können die Grafiken mit der kostenlosen Software Inkscape https://inkscape.org/ angepasst werden (z.B. Teile anders anordnen). Bei der Verwendung der Software "Lightburn" können die Teile auch dort bearbeitet werden.
+
 ## Laser-Parameter
 
 Bei dem o.g. Modell (Omtech Max 1493 / USB1410b (130 Watt)) werden folgende Einstellungen empfohlen:
