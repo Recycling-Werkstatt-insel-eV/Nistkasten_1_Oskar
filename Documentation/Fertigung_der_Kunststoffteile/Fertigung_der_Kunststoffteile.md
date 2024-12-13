@@ -22,4 +22,6 @@ Die Teile sollten entsprechend der unten verlinkten Zeichnungen hergestellt werd
 
 Download der Zeichnungen (PDF-Datei):
 
-- [Zeichnungen Kunststoffteile](../)
+- [Zeichnungen Kunststoffteile](Zeichnungen_Kunststoffteile.pdf)
+
+Die PDF-Datei kann direkt in GitHub eingesehen oder heruntergeladen werden (über die drei Punkte oben rechts "..." > Download). Die Datei ist in A4-Format und kann somit auch gut ausgedruckt werden (5 Seiten).
