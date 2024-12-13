@@ -50,7 +50,7 @@ Die SVG-Datei kann [hier](../) heruntergeladen werden.
 
 ## Breites Brett (25 cm Breite)
 
-Für das schmale Brett mit 20 cm Breite (800 x 250 x 18 mm) wird folgende Anordnung empfohlen:
+Für das breite Brett mit 25 cm Breite (800 x 250 x 18 mm) wird folgende Anordnung empfohlen:
 
 ![](lasercut2.png)
 
