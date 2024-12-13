@@ -18,7 +18,7 @@ Die Materialien für die Herstellung der Kunststoffteile können in der [Einkauf
 
 ## Zeichnungen
 
-Die Teile sollten entsprechend der unten verlinkten Zeichnungen hergestellt werden. Von den "Drehbaren Haltern Plastik" sollten zwei Stück hergestellt werden (oder drei Stück, falls die Lochplatte gesichert werden soll, siehe letzten Schritt in der [Bauanleitung](../../Documentation/Documentation.md)). Von allen anderen reicht je ein Stück pro Nistkasten.
+Die Teile sollten entsprechend der unten verlinkten Zeichnungen hergestellt werden. Von den "Drehbaren Haltern Plastik" sollten zwei Stück hergestellt werden (oder drei Stück, falls die Lochplatte gesichert werden soll, siehe letzten Schritt in der [Bauanleitung](../../Documentation/Documentation.md)). Von allen anderen Teilen reicht je ein Stück pro Nistkasten.
 
 Download der Zeichnungen (PDF-Datei):
 
