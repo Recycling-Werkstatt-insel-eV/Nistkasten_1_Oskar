@@ -96,3 +96,5 @@ Die folgenden Abbildungen zeigen den Fräsvorgang sowie die Haltestege:
 <img width="400" src="10.jpg"> <img width="400" src="11.jpg">
 
 <img width="400" src="12.jpg">
+
+Hier geht es [zurück zur Übersicht](../../README.md), dort weiter mit Punkt 4 "Fertigung der Kunststoffteile".
