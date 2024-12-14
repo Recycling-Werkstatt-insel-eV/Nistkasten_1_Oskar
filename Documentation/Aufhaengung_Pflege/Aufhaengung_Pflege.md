@@ -4,7 +4,7 @@ Beim Aufhängen und bei der Pflege der Nistkästen gibt es einige Sachen zu beac
 
 ## Lochgröße
 
-x
+Für diesen Nistkasten stehen Lochplatten mit den Lochdurchmessern 27 mm, 32 mm und 45 mm zur Verfügung. Damit lassen sich fast alle Vogelarten aus der Tabelle im Dokument "Hintergrundinfos" abdecken. Mehr Infos zu den Vogelarten und zur Auswahl der richtigen Lochgröße im Dokument [Hintergrundinfos](../../Documentation/Hintergrundinfos/Hintergrundinfos.md), Abschnitt "Vogelarten und Einfluglochgrößen".
 
 ## Aufhängung
 
