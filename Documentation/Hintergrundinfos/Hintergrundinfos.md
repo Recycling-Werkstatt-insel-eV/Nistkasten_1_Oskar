@@ -52,6 +52,8 @@ Der Nistkasten wurde so designt, dass sich alle Teile wieder einfach voneinander
 
 Dadurch, dass die wesentlichen Teile aus Holz bestehen, bietet der Nistkasten ein gutes Innenklima für (Jung)vögel. Der Kasten ist dank der Schraubverbindungen sehr stabil, auch bei Wind und Wetter. Durch die austauschbaren Lochplatten können verschiedene Vogelarten angesprochen werden. Falls andere Vogelarten unterstützt werden sollen oder falls sich herausstellt, dass die ursprünglich vorgesehe Vogelart gar nicht in der Gegend verkehrt, kann einfach eine Lochplatte mit anderem Lochdurchmesser eingeschoben werden. Es muss also kein neuer Kasten gebaut, sondern nur die Platte ausgetauscht werden, was den Kasten zusätzlich nachhaltig macht.
 
+Zudem verfügt der Nistkasten über einen sogenannten Prädatorenschutz, also Schutz vor Nesträubern. Tiere wie Katzen, Marder oder Waschbären greifen manchmal in Nistkästen hinein und versuchen Eier oder Jungvögel herauszuholen. Der Schutz vor Nesträubern bei diesem Nistkasten besteht in Form der Abstufung im oberen Bereich beim Einflugloch. Das Bauteil "oberer Boden" sorgt dafür, dass die Wand mit dem Einflugloch ein Stück weit vorgezogen ist, sodass die hineingreifenden Nesträuber den unteren Bereich des Nistkastens, wo das Nest liegt, nicht erreichen können.
+
 ## Vogelarten und Einfluglochgrößen
 
 Je nachdem, von welcher Vogelart der Nistkasten genutzt werden soll, kann eine andere Lochscheibe verwendet werden.
