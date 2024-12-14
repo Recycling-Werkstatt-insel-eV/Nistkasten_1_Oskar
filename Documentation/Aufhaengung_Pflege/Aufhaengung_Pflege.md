@@ -24,5 +24,6 @@ Quelle (mit einigen Überarbeitungen übernommen): https://www.nabu.de/tiere-und
 - Es sollten Handschuhe getragen werden und das Nistmaterial sollte man nicht in die Wohnung trageb, da Vogelflöhe und anderes Getier auf den Menschen überspringen können.
 - Es genügt, das alte Nest zu entfernen und den Kasten bei stärkerer Verschmutzung auszubürsten. Auf Insektensprays oder chemische Reinigungsmittel sollte verzichtet werden.
 - Kontrollen während der Brutzeit sollte man vermeiden, um die Brut und Aufzucht der Jungvögel nicht zu stören.
+- [Mehr zum Thema Nistkastenreinigung](https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/02716.html)
 
 Quelle (mit einigen Überarbeitungen übernommen): https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/index.html , Abschnitt "Nistkästen reinigen" 
