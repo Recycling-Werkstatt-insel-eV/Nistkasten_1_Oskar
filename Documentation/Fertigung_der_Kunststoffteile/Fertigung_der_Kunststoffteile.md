@@ -25,3 +25,5 @@ Download der Zeichnungen (PDF-Datei):
 - [Zeichnungen Kunststoffteile](Zeichnungen_Kunststoffteile.pdf)
 
 Die PDF-Datei kann direkt in GitHub eingesehen oder heruntergeladen werden (über die drei Punkte oben rechts "..." > Download). Die Datei ist in A4-Format und kann somit auch gut ausgedruckt werden (5 Seiten).
+
+Hier geht es [zurück zur Übersicht](../../README.md), dort weiter mit Punkt 5 "Zusammenbau".
