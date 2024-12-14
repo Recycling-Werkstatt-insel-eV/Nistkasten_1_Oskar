@@ -27,3 +27,5 @@ Quelle (mit einigen Überarbeitungen übernommen): https://www.nabu.de/tiere-und
 - [Mehr zum Thema Nistkastenreinigung](https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/02716.html)
 
 Quelle (mit einigen Überarbeitungen übernommen): https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/index.html , Abschnitt "Nistkästen reinigen" 
+
+An dieser Stelle endet die Anleitung und Dokumentation zum Nistkasten. Hier geht es [zurück zur Übersicht](../../README.md).
