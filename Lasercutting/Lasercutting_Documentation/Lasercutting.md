@@ -65,3 +65,5 @@ Die SVG-Datei kann hier [hier](../) heruntergeladen werden.
 Nach unserer Erfahrung kommt es gelegentlich vor, dass Teile noch im Holzbrett feststecken, da Schnittlinien teilweise nicht ganz durchgingen. In dem Fall ist es ggf. notwendig, die Teile z.B. mit einer Stichsäge nachzusägen.
 
 Die Ränder der Teile sind durch das Lasercutting oft stark verbrannt und schwarz. Es wird empfohlen, die Randpartien der Teile abzuschleifen, z.B. an einem Tellerschleifer und/oder mit Schleifpapier.
+
+Hier geht es [zurück zur Übersicht](../../README.md), dort weiter mit Punkt 4 "Fertigung der Kunststoffteile".
