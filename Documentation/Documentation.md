@@ -1,4 +1,4 @@
-# Vogelnistkasten für Workshops - Bauanleitung
+# Zusammenbau
 
 ## Bauteile anfertigen
 
