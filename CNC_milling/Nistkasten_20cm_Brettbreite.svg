@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900mm"
+   height="250mm"
+   viewBox="0 0 899.99999 249.99999"
+   version="1.1"
+   id="svg6129"
+   sodipodi:docname="Nistkasten_20cm_Brettbreite.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6133">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4413"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4417"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4413-8"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4417-5"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4393"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4275"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4275-9"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4447"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6131"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.3934522"
+     inkscape:cx="1589.7738"
+     inkscape:cy="250.34807"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     id="Shape2DView003"
+     transform="matrix(1,0,0,-1,-681.58018,121.46174)">
+    <path
+       id="Shape2DView003_nwe0000"
+       d="M 1005,-50 H 903"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0001"
+       d="M 1005,70 V -50"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0002"
+       d="M 903,-50 V -68"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0003"
+       d="m 903,70 h 102"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0004"
+       d="M 903,-68 H 823"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0005"
+       d="M 903,88 V 70"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0006"
+       d="m 823,-68 v 18"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0007"
+       d="m 823,88 h 80"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0008"
+       d="M 823,-50 H 723"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0009"
+       d="M 823,70 V 88"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0010"
+       d="M 723,-50 V 70"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView003_nwe0011"
+       d="M 723,70 H 823"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="863"
+       cy="-59"
+       r="1.5"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6029" />
+    <circle
+       cx="863"
+       cy="79"
+       r="1.5"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6031" />
+    <title
+       id="title6033">b'LCs_Hinten'</title>
+  </g>
+  <g
+     id="Shape2DView004"
+     transform="matrix(1,0,0,-1,-650.35921,121.46174)">
+    <path
+       id="Shape2DView004_nwe0000"
+       d="M 1317,-68 V 88"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0001"
+       d="m 1317,88 h 41"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0002"
+       d="M 1358,88 V 70"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0003"
+       d="m 1358,70 h 12"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0004"
+       d="M 1370,70 V -50"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0005"
+       d="m 1358,-50 h 12"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0006"
+       d="m 1358,-68 v 18"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView004_nwe0007"
+       d="m 1317,-68 h 41"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <title
+       id="title6044">b'LCs_Pr\xc3\xa4datorenschutz_Boden'</title>
+  </g>
+  <g
+     id="Shape2DView005"
+     transform="matrix(1,0,0,-1,-642.42166,121.46174)">
+    <path
+       id="Shape2DView005_nwe0000"
+       d="m 1374,88 h 35"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView005_nwe0001"
+       d="M 1409,88 V 70"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView005_nwe0002"
+       d="m 1409,70 h 34"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView005_nwe0003"
+       d="M 1443,70 V -68"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView005_nwe0004"
+       d="m 1443,-68 h -69"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView005_nwe0005"
+       d="M 1374,-68 V 88"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="1408.5"
+       cy="10"
+       r="22.5"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6053" />
+    <title
+       id="title6055">b'LCs_Einflugloch'</title>
+  </g>
+  <g
+     id="Shape2DView006"
+     transform="matrix(1,0,0,-1,-669.93847,121.46174)">
+    <path
+       id="Shape2DView006_nwe0000"
+       d="m 1009,87 h 60"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0001"
+       d="M 1009,-69 V 87"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0002"
+       d="M 1069,87 V 68.5"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0003"
+       d="m 1069,-69 h -60"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0004"
+       d="m 1069,68.5 h 80"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0005"
+       d="M 1069,-50.5 V -69"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0006"
+       d="m 1149,68.5 v -119"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView006_nwe0007"
+       d="m 1149,-50.5 h -80"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="1021"
+       cy="49"
+       r="1.5"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6066" />
+    <circle
+       cx="1021"
+       cy="-31"
+       r="1.5"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6068" />
+    <title
+       id="title6070">b'LCs_Front_Abdeckung'</title>
+  </g>
+  <g
+     id="Shape2DView007"
+     transform="matrix(1,0,0,-1,-657.76759,121.46174)">
+    <path
+       id="Shape2DView007_nwe0000"
+       d="m 1208,88 h 50"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0001"
+       d="M 1208,70 V 88"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0002"
+       d="M 1258,88 V 70"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0003"
+       d="m 1153,70 h 55"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0004"
+       d="m 1258,70 h 55"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0005"
+       d="M 1153,-50 V 70"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0006"
+       d="M 1313,70 V -50"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0007"
+       d="m 1208,-50 h -55"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0008"
+       d="m 1313,-50 h -55"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0009"
+       d="m 1208,-68 v 18"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0010"
+       d="M 1258,-50 V -68"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Shape2DView007_nwe0011"
+       d="m 1258,-68 h -50"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="1183"
+       cy="50"
+       r="3"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6085" />
+    <circle
+       cx="1183"
+       cy="-30"
+       r="3"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6087" />
+    <circle
+       cx="1283"
+       cy="50"
+       r="3"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6089" />
+    <circle
+       cx="1283"
+       cy="-30"
+       r="3"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6091" />
+    <title
+       id="title6093">b'LCs_Boden'</title>
+  </g>
+  <path
+     style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 744.32453,137.80987 c 1.61217,0 3.22491,0 4.83737,0 0,0 -3.2411,-2.64452 -3.2411,-2.64452 0,0 0,3.59582 0,3.59582"
+     id="path4411"
+     inkscape:path-effect="#path-effect4413"
+     inkscape:original-d="m 744.32453,137.80987 c 1.61217,2e-4 4.83737,0 4.83737,0 0,0 -3.2411,-2.64452 -3.2411,-2.64452 0,0 0,3.59582 0,3.59582"
+     inkscape:label="4" />
+  <path
+     style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 744.77283,139.23002 c -0.16136,0.58084 -0.32263,1.16135 -0.17207,1.69064 0.15055,0.52929 0.61273,1.00761 1.08828,1.11792 0.47554,0.11031 0.96464,-0.14769 1.25501,-0.44863 0.29037,-0.30094 0.38178,-0.64497 0.40065,-0.99437 0.0189,-0.3494 -0.0349,-0.70439 -0.0887,-1.05916 0,0 1.9672,0 1.9672,0 0,0 0,2.6284 0,2.6284"
+     id="path4415"
+     inkscape:path-effect="#path-effect4417"
+     inkscape:original-d="m 744.77283,139.23002 c -0.1615,0.5808 -0.3228,1.1613 -0.4838,1.7415 0.462,0.4787 0.9242,0.957 1.38677,1.4352 0.4888,-0.2578 0.9779,-0.5158 1.4673,-0.774 0.091,-0.3438 0.1825,-0.6878 0.2742,-1.032 -0.054,-0.3545 -0.1613,-1.0643 -0.1613,-1.0643 h 1.9672 v 2.6284"
+     sodipodi:nodetypes="cccccccc"
+     inkscape:label="5" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Brett 20 x 80 cm" />
+</svg>
