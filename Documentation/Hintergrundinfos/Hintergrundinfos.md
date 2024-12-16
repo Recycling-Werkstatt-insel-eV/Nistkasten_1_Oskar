@@ -1,6 +1,6 @@
 # Hintergrundinfos
 
-Dieser Vogelnistkasten wurde im Rahmen eines Projekts beim insel e.V. in Hamburg https://werkstatt.insel-ev.de/ entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
+Dieser Vogelnistkasten wurde im Rahmen eines Projekts bei der Offenen-Recycling-Werkstatt (beim insel e.V.) in Hamburg https://werkstatt.insel-ev.de/ entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
 
 Der Nistkasten ist für verschiedene Höhlenbrüter-Vogelarten geeignet.
 
