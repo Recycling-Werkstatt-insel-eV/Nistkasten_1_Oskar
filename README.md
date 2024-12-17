@@ -4,7 +4,7 @@ Dieser Vogelnistkasten wurde so konzipiert, dass einige Teile aus Recycling-Kuns
 
 Durch seinen einfachen Aufbau ist dieser Nistkasten sehr gut für Bauworkshops geeignet, sowohl für Grundschulkinder als auch für ältere Jugendliche oder Erwachsene.
 
-<img width="300" src="Documentation/Nistkasten_Titelbild.jpg">
+<img width="300" src="Documentation/Nistkasten_Titelbild2.jpg">
 
 ## Bauanleitung
 
