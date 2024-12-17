@@ -6,6 +6,8 @@ Durch seinen einfachen Aufbau ist dieser Nistkasten sehr gut für Bauworkshops g
 
 <img width="300" src="Documentation/Nistkasten_Titelbild2.jpg">
 
+Im Rahmen dieses Projekts wurden noch einige andere Nistkästen entwickelt: [Zur Übersicht](https://github.com/orcular-orga/vogelhaus_uebersicht)
+
 ## Bauanleitung
 
 Für einen Nachbau wird empfohlen, die folgenden Kapitel in der vorgesehenen Reihenfolge zu lesen und die Schritte entsprechend abzuarbeiten:
