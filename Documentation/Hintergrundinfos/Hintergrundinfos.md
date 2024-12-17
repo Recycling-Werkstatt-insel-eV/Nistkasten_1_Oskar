@@ -4,7 +4,7 @@ Dieser Vogelnistkasten wurde im Rahmen eines Projekts bei der Offenen-Recycling-
 
 Der Nistkasten ist für verschiedene Höhlenbrüter-Vogelarten geeignet.
 
-Im Rahmen des Projekts sind noch andere Nistkastenmodelle entstanden. Eine Übersicht befindet sich hier (LINK)
+Im Rahmen des Projekts sind noch andere Nistkastenmodelle entstanden. Eine Übersicht befindet sich hier: [Übersicht Nistkästen](https://github.com/orcular-orga/vogelhaus_uebersicht)
 
 ## Besonderheiten des Nistkastens
 
