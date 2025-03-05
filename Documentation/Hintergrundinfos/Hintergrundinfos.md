@@ -1,10 +1,10 @@
 # Hintergrundinfos
 
-Dieser Vogelnistkasten wurde im Rahmen eines Projekts bei der Offenen-Recycling-Werkstatt (beim insel e.V.) in Hamburg https://werkstatt.insel-ev.de/ entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
+Dieser Vogelnistkasten wurde im Rahmen eines Projekts bei der Offenen-Recycling-Werkstatt (von insel e.V.) in Hamburg https://werkstatt.insel-ev.de/ entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
 
 Der Nistkasten ist für verschiedene Höhlenbrüter-Vogelarten geeignet.
 
-Im Rahmen des Projekts sind noch andere Nistkastenmodelle entstanden. Eine Übersicht befindet sich hier: [Übersicht Nistkästen](https://github.com/orcular-orga/vogelhaus_uebersicht)
+Im Rahmen des Projekts sind noch andere Nistkastenmodelle entstanden. Eine Übersicht befindet sich hier: [Übersicht Nistkästen](https://github.com/Recycling-Werkstatt-insel-eV/Nistkasten_main_Uebersicht)
 
 ## Besonderheiten des Nistkastens
 
@@ -18,9 +18,9 @@ Ziel der Produktentwicklung war es, einen Nistkasten zu entwickeln, der
 
 ### Zu Punkt 1: Nachhaltige Materialien
 
-Eine Besonderheit der Offene Recycling-Werkstatt, betrieben vom insel e.V. in Hamburg, besteht in Form von Werkzeugen und Prozessen zum Recycling von Kunststoffen (Plastik) und Herstellung von neuen Produkten aus Recyclingplastik. Die Werkstatt verfügt u.a. über Granulatmühlen (Schredder) zum Zerkleinern von Kunststoffabfällen sowie über eine Plattenpresse. Das zerkleinerte Plastikgranulat kann in der Plattenpresse zu großen Platten aus Recyclingplastik gepresst werden. Diese Platten können anschließend weiterverarbeitet werden, z.B. mit Tischkreissägen oder Bohrmaschinen. 
+Eine Besonderheit der Offene Recycling-Werkstatt von insel e.V. in Hamburg sind die Werkzeuge und Prozesse zum Recycling von Kunststoffen (Plastik) und Herstellung von neuen Produkten aus Recyclingplastik. Die Werkstatt verfügt u.a. über Granulatmühlen (Schredder) zum Zerkleinern von Kunststoffabfällen sowie über eine Plattenpresse. Das zerkleinerte Plastikgranulat kann in der Plattenpresse zu großen Platten aus Recyclingplastik gepresst werden. Diese Platten können anschließend weiterverarbeitet werden, z.B. mit Tischkreissägen oder Bohrmaschinen. 
 
-Daher bestand ein Ziel darin, die Vogelnistkästen, zumindest teilweise, aus Recyclingkunststoff herzustellen. Während der Konzeptionsphase stellte sich heraus, dass ein Vogelnistkasten nicht vollständig aus Plastik bestehen sollte (dies auch dank der Beratung durch die teilnehmenden NABU-Mitglieder). Plastikkästen heizen sich in der Sonne zu stark auf, was den Vögeln schadet, zudem ist Plastik (im Gegensatz zu Holz) nicht atmungsaktiv und es sammelt sich Feuchtigkeit im Innenraum.
+Daher bestand ein Ziel darin, die Vogelnistkästen, zumindest teilweise, aus Recyclingkunststoff herzustellen. Während der Konzeptionsphase stellte sich heraus, dass ein Vogelnistkasten nicht vollständig aus Plastik bestehen sollte (dank der Beratung durch die teilnehmenden NABU-Mitglieder_innen). Plastikkästen heizen sich in der Sonne zu stark auf, was den Vögeln schadet, zudem ist Plastik (im Gegensatz zu Holz) nicht atmungsaktiv und es sammelt sich Feuchtigkeit im Innenraum.
 
 Aus diesem Grund wurde ein Modell entwickelt, das teilweise aus Holz und teilweise aus Plastik besteht. Die Wände und der Boden sind aus Holz, sodass sich der Kasten nicht zu stark aufheizt, atmungsaktiv ist und zudem den Jungvögeln gute Klettermöglichkeiten an den Innenflächen bietet. Das Dach und einige weitere Verbindungsteile hingegen wurden aus Recyclingkunststoff gefertigt. Diese haben keine negativen Einflüsse auf das Innenklima. Gleichzeitig sorgt der Einsatz von Recyclingkunststoff dafür, dass wertvolles Holz zumindest teilweise eingespart werden kann. Zudem wird Kunststoffabfällen ein "zweites Leben" gegeben, oder - falls das Plastik erneut recycelt wird - sogar mehrere Leben.
 
@@ -42,7 +42,7 @@ Dieser Nistkasten hingegen wurde so konzipiert, dass sich alle wichtigen Teile m
 
 Der Nistkasten wurde gründlich dokumentiert. Alle wichtigen Infos rund um Materialbeschaffung, Fertigung, Zusammenbau und Verwendung des Nistkastens sind in diesem GitHub-Verzeichnis dokumentiert. Zudem sind alle digitalen Dateien, die zur Fertigung mit Lasercutter oder CNC-Fräse notwendig sind, beigelegt. Auch Zeichnungen und Anweisungen zur Herstellung einzelner Teile sind vorhanden.
 
-Das Projekt ist als Open-Source-Hardware veröffentlicht, sodass jede:r diesen Nistkasten einsehen, nachbauen oder sogar verbessern oder verändern kann.
+Das Projekt ist als Open-Source-Hardware veröffentlicht, sodass jede_r diesen Nistkasten einsehen, nachbauen oder sogar verbessern oder verändern kann.
 
 ### Zu Punkt 5: Reparierbarkeit und Recyclebarkeit
 
