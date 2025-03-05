@@ -1,6 +1,6 @@
 # Einkaufsliste
 
-Die Mengenangaben in dieser Einkaufsliste beziehen sich auf **einen** Nistkasten. Falls mehrere Nistkästen gebaut werden sollen, können natürlich entsprechend größere Mengen besorgt werden
+Die Mengenangaben in dieser Einkaufsliste beziehen sich auf **einen** Nistkasten. Falls mehrere Nistkästen gebaut werden sollen, können natürlich entsprechend größere Mengen besorgt werden.
 
 **Zum Thema Holz:**
 
@@ -16,7 +16,7 @@ Für unsere Zwecke haben wir uns für Fichtenholzbretter aus dem Baumarkt entsch
 
 Die Offene Recycling-Werkstatt vom insel e.V. Hamburg verfügt über Maschinen, mit denen sich Platten und Balken (sogenannte "Beams") aus Recyclingkunststoff herstellen lassen. Die Maschinen und Verfahren basieren auf dem "Precious Plastic"-Projekt https://www.preciousplastic.com/ (daher stammt auch der englischsprachige Begriff "Beam" - die Platten werden auf englisch "Sheets" genannt).
 
-Die Platten und Balken können, falls die notwendigen Maschinen vorhanden sind, selbst hergestellt werden. Sie können auch beim insel e.V. https://werkstatt.insel-ev.de/ oder auf dem "Precious Plastic Bazar" https://bazar.preciousplastic.com/ bestellt werden. Als Kunststoffsorte kommen sowohl PP als auch HDPE (PE) in Frage.
+Die Platten und Balken können, falls die notwendigen Maschinen vorhanden sind, selbst hergestellt werden. Sie können auch bei insel e.V. https://werkstatt.insel-ev.de/ oder auf dem "Precious Plastic Bazar" https://bazar.preciousplastic.com/ bestellt werden. Als Kunststoffsorte kommen sowohl PP als auch HDPE (PE) in Frage.
 
 Für die genauen Maße der Kunststoffteile können auch die technischen Zeichnungen in der Sektion [Fertigung der Kunststoffteile](../../Documentation/Fertigung_der_Kunststoffteile/Fertigung_der_Kunststoffteile.md) eingesehen werden.
 
